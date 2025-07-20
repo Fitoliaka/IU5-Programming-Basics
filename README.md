@@ -15,5 +15,5 @@ https://fitoliaka.github.io/IU5-Programming-Basics/
 	 - [Лабораторная работа 3](https://fitoliaka.github.io/IU5-Programming-Basics/labs/lab-01.html)
 	 - [Лабораторная работа 4](https://fitoliaka.github.io/IU5-Programming-Basics/labs/lab-01.html)
 	 - [Лабораторная работа 5](https://fitoliaka.github.io/IU5-Programming-Basics/labs/lab-01.html)
- - [Style Guide](https://fitoliaka.github.io/IU5-Programming-Basics/Style Guide.html)
+ - [Style Guide](ttps://fitoliaka.github.io/IU5-Programming-Basics/Style%20Guide.html)
  - [Правила сдачи лабораторных работ](https://fitoliaka.github.io/IU5-Programming-Basics/rules.html)
